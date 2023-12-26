@@ -62,7 +62,7 @@ function Footer() {
         
         <div className="self-stretch w-full h-[0px] border border-white"></div>
        
-        <div className="justify-center items-center gap-4">
+        <div className="flex justify-center items-center gap-4">
             <div className="text-white text-sm font-medium font-['Inter'] capitalize">Privacy Policy</div>
             <div className="w-4 h-[0px] origin-top-left rotate-90 border border-white"></div>
             <div className="text-white text-sm font-medium font-['Inter'] capitalize">Terms & Conditions</div>
